@@ -20,8 +20,8 @@ Build a dll before
 g++ -shared -o own.dll own.cpp -Wl,--add-stdcall-alias -m64
 ```
 ```
-Cmake configure & Cmakelist
-
+Cmake configure & Build
+Cmake configure > CMakeLists
 ```
 #Mandatory to have : 
 - Cuda 12.X
