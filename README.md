@@ -22,6 +22,7 @@ g++ -shared -o own.dll own.cpp -Wl,--add-stdcall-alias -m64
 ```
 Cmake configure & Build
 Cmake configure > CMakeLists
+Launch the executable
 ```
 #Mandatory to have : 
 - Cuda 12.X
