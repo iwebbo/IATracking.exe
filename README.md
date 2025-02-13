@@ -20,6 +20,12 @@ Build a dll before
 g++ -shared -o own.dll own.cpp -Wl,--add-stdcall-alias -m64
 ```
 ```
-Run it
-Launch the executable : YOLOV8.exe
+Cmake configure & Cmakelist
+
 ```
+#Mandatory to have : 
+- Cuda 12.X
+- Cudnn 12.X
+- OpenCV Last version
+- Cmake 3.X
+- VSC & VS
