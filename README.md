@@ -1,6 +1,5 @@
 # README : IATracking.exe
-
-#### ENGLISH VERSION 
+ 
 
 ## Technologies 
 
